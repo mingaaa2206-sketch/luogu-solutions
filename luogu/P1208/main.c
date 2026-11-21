@@ -32,16 +32,3 @@ int main()
     for(i=0;i<m;i++)
     {
         if(a[i]>n)
-        {
-            cost=n*p[i]+cost;
-            break;
-        }
-        else
-        {
-            cost=cost+a[i]*p[i];
-            n=n-a[i];
-        }
-    }
-    printf("%d",cost);
-    return 0;   
-}
