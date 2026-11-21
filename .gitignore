@@ -1,0 +1,7 @@
+# build artifacts
+*.exe
+*.out
+*.o
+__pycache__/
+.vscode/
+.idea/
