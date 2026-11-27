@@ -41,6 +41,6 @@
 
 NOIP 2006 普及组 第一题
 
-## 我的 C 语言代码
+## 我的 C++ 语言代码
 
-[查看 main.c](main.c)
+[查看 main.cpp](main.cpp)

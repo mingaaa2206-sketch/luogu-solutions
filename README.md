@@ -70,10 +70,10 @@
 │   ├── 模拟/
 │   │   ├── P1035-NOIP-2002-普及组-级数求和/
 │   │   │   ├── README.md
-│   │   │   └── main.c
+│   │   │   └── main.cpp
 │   │   ├── P1059-NOIP-2006-普及组-明明的随机数/
 │   │   │   ├── README.md
-│   │   │   └── main.c
+│   │   │   └── main.cpp
 │   │   ├── P1089-NOIP-2004-提高组-津津的储蓄计划/
 │   │   │   ├── README.md
 │   │   │   └── main.c
@@ -88,7 +88,7 @@
 │   │   │   └── main.c
 │   │   ├── P2141-NOIP-2014-普及组-珠心算测验/
 │   │   │   ├── README.md
-│   │   │   └── main.c
+│   │   │   └── main.cpp
 │   │   ├── P8597-蓝桥杯-2013-省-B-翻硬币/
 │   │   │   ├── README.md
 │   │   │   └── main.c
@@ -101,7 +101,7 @@
 │   │   │   └── main.c
 │   │   └── P1888-三角函数/
 │   │       ├── README.md
-│   │       └── main.c
+│   │       └── main.cpp
 │   └── 贪心/
 │       ├── P1208-USACO1.3-混合牛奶-Mixing-Milk/
 │       │   ├── README.md
